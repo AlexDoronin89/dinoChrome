@@ -1,0 +1,10 @@
+.parent{
+    border:1px solid #000;
+    position: fixed;
+    top: 150;
+    left: 200;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
